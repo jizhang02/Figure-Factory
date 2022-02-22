@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-22T21:20:03.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="DtPviNWGmdIZLkZtZXAp" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-22T21:22:58.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="NAu5qdna9SZk8cERx8cG" version="16.5.6" type="github">
   <diagram id="3S6QeXYECyK9SX3h8xR4" name="Page-1">
-    <mxGraphModel dx="2850" dy="1603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="814" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -326,10 +326,10 @@
           <mxGeometry x="814" y="414" width="200.67" height="425" as="geometry" />
         </mxCell>
         <mxCell id="qGcv9CCfLaphZMbWW0hr-268" value="Programming &amp;amp;&lt;br&gt;Computer Science" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="839.67" y="381" width="170" height="30" as="geometry" />
+          <mxGeometry x="839.67" y="378" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qGcv9CCfLaphZMbWW0hr-269" value="Information System &amp;amp;&lt;br&gt;Management" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1189.4099999999999" y="492" width="170" height="30" as="geometry" />
+          <mxGeometry x="1189.4099999999999" y="488" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qGcv9CCfLaphZMbWW0hr-271" value="MISC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1014" y="421" width="170" height="30" as="geometry" />
@@ -338,7 +338,7 @@
           <mxGeometry x="1361" y="564" width="173.17" height="275" as="geometry" />
         </mxCell>
         <mxCell id="qGcv9CCfLaphZMbWW0hr-275" value="Hands-on and practice" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1361" y="546" width="183" height="30" as="geometry" />
+          <mxGeometry x="1361" y="536" width="183" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qGcv9CCfLaphZMbWW0hr-329" value="Python in remote server&amp;nbsp;&lt;br&gt;Slurm" style="whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="1317" y="1267" width="120" height="60" as="geometry" />
@@ -440,7 +440,7 @@
           <mxGeometry x="664" y="504" width="150" height="335" as="geometry" />
         </mxCell>
         <mxCell id="qGcv9CCfLaphZMbWW0hr-267" value="Prerequisites" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="664" y="479" width="170" height="30" as="geometry" />
+          <mxGeometry x="664" y="478" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
