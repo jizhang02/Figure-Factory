@@ -1,0 +1,479 @@
+<mxfile host="app.diagrams.net" modified="2022-12-12T09:53:09.049Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42" etag="ciDjPwO8c-Fsauz8Oetd" version="20.5.3" type="github" pages="3">
+  <diagram id="G1EAkqDxt5bERj7nrOD2" name="install singularity">
+    <mxGraphModel dx="1065" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6LpnOTjiqvIQhpEYVGR6-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="CMXXvhL34HXlCQiug_aX" name="Page-3">
+    <mxGraphModel dx="1065" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3S6QeXYECyK9SX3h8xR4" name="study routine">
+    <mxGraphModel dx="1065" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-281" value="分析工具&lt;br&gt;Toolkit" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1117" y="1082" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-282" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="qGcv9CCfLaphZMbWW0hr-121" target="qGcv9CCfLaphZMbWW0hr-281" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-283" value="3D Slicer&lt;br&gt;FIJI&lt;br&gt;ITK-SNAP" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1317" y="1082" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-284" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="qGcv9CCfLaphZMbWW0hr-281" target="qGcv9CCfLaphZMbWW0hr-283" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-285" value="基础&lt;br&gt;Fundamental elements" style="whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="802" y="1366" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-291" value="预处理&lt;br&gt;preprocessing" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1117" y="1162" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-292" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="qGcv9CCfLaphZMbWW0hr-289" target="qGcv9CCfLaphZMbWW0hr-291" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-294" value="数据增强 Data augmentation&lt;br&gt;正则化Normalization" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1317" y="1162" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-295" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="qGcv9CCfLaphZMbWW0hr-291" target="qGcv9CCfLaphZMbWW0hr-294" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-296" value="损失函数&lt;br&gt;Loss functions" style="whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="682" y="1471" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-297" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="qGcv9CCfLaphZMbWW0hr-285" target="qGcv9CCfLaphZMbWW0hr-296" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-332" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="qGcv9CCfLaphZMbWW0hr-302" target="qGcv9CCfLaphZMbWW0hr-331" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-304" value="模型&lt;br&gt;Models" style="whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="892" y="1471" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-305" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="qGcv9CCfLaphZMbWW0hr-285" target="qGcv9CCfLaphZMbWW0hr-304" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-308" value="优化算法&lt;br&gt;Optimization algorithms" style="whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="962" y="1366" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-309" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="qGcv9CCfLaphZMbWW0hr-285" target="qGcv9CCfLaphZMbWW0hr-308" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-324" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="qGcv9CCfLaphZMbWW0hr-310" target="qGcv9CCfLaphZMbWW0hr-323" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-311" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="qGcv9CCfLaphZMbWW0hr-144" target="qGcv9CCfLaphZMbWW0hr-310" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-312" value="非监督学习&lt;br&gt;Non-Supervised learning" style="whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="324" y="1366" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-313" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;startArrow=none;" parent="1" source="qGcv9CCfLaphZMbWW0hr-310" target="qGcv9CCfLaphZMbWW0hr-312" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-318" value="降维&lt;br&gt;Dimensionality reduction&lt;br&gt;聚类 Clustering" style="whiteSpace=wrap;html=1;strokeColor=default;align=left;" parent="1" vertex="1">
+          <mxGeometry x="142" y="1366" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-319" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="qGcv9CCfLaphZMbWW0hr-312" target="qGcv9CCfLaphZMbWW0hr-318" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-331" value="&lt;span&gt;分割 Segmentation&lt;/span&gt;&lt;br&gt;&lt;span&gt;分类 Classification&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span&gt;回归 Regression&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeColor=default;align=left;" parent="1" vertex="1">
+          <mxGeometry x="642" y="1366" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-333" value="注意力 Attention&lt;br&gt;Transformer&lt;br&gt;Vision Transformer" style="whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="892" y="1561" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-334" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="qGcv9CCfLaphZMbWW0hr-304" target="qGcv9CCfLaphZMbWW0hr-333" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-337" value="卷积神经网络&lt;br&gt;Convolutional Neural Networks&lt;br&gt;几何深度模型&lt;br&gt;Geometric deep model" style="whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1077" y="1471" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-339" value="自动优化算法&lt;br&gt;Automatic Optimization algorithms" style="whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1122" y="1366" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-310" value="监督学习&lt;br&gt;Supervised learning" style="whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="324" y="1267" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-341" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;endArrow=none;" parent="1" source="qGcv9CCfLaphZMbWW0hr-144" target="qGcv9CCfLaphZMbWW0hr-310" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="507" y="1297.0000000000002" as="sourcePoint" />
+            <mxPoint x="382.05882352941217" y="1374" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-338" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="qGcv9CCfLaphZMbWW0hr-304" target="qGcv9CCfLaphZMbWW0hr-337" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-346" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="qGcv9CCfLaphZMbWW0hr-142" target="qGcv9CCfLaphZMbWW0hr-285" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="779" y="1349" />
+              <mxPoint x="862" y="1349" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-340" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="qGcv9CCfLaphZMbWW0hr-308" target="qGcv9CCfLaphZMbWW0hr-339" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-51" value="&lt;h1&gt;2011-2015&lt;/h1&gt;&lt;div&gt;大学 - Bachelor&lt;/div&gt;&lt;div&gt;University&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="14" y="631" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-251" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qGcv9CCfLaphZMbWW0hr-53" target="qGcv9CCfLaphZMbWW0hr-71" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-53" value="&lt;h1&gt;2015-2018&lt;/h1&gt;&lt;div&gt;硕士 - Master&lt;/div&gt;&lt;div&gt;University&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="14" y="936" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qGcv9CCfLaphZMbWW0hr-51" target="qGcv9CCfLaphZMbWW0hr-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qGcv9CCfLaphZMbWW0hr-53" target="qGcv9CCfLaphZMbWW0hr-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qGcv9CCfLaphZMbWW0hr-51" target="qGcv9CCfLaphZMbWW0hr-68" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-266" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="qGcv9CCfLaphZMbWW0hr-93" target="qGcv9CCfLaphZMbWW0hr-255" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-93" value="信息管理与信息系统&lt;br&gt;Information Management and Information Systems" style="whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="514.5" y="641" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="qGcv9CCfLaphZMbWW0hr-70" target="qGcv9CCfLaphZMbWW0hr-93" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qmrTpTHnCcI6w7EaYWka-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#00FF00;" parent="1" source="qGcv9CCfLaphZMbWW0hr-95" target="qmrTpTHnCcI6w7EaYWka-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qmrTpTHnCcI6w7EaYWka-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#00FF00;" parent="1" source="qGcv9CCfLaphZMbWW0hr-95" target="qGcv9CCfLaphZMbWW0hr-99" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-95" value="计算机科学与技术&lt;br&gt;Computer Science" style="whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="504" y="946" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qGcv9CCfLaphZMbWW0hr-73" target="qGcv9CCfLaphZMbWW0hr-95" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-99" value="计算机图形学&lt;br&gt;Computer Graphics" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720.5" y="946" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-103" value="点云数据&lt;br&gt;Point Cloud data" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720.5" y="855" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qGcv9CCfLaphZMbWW0hr-99" target="qGcv9CCfLaphZMbWW0hr-103" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-105" value="光线跟踪&lt;br&gt;Ray tracing" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="900" y="946" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qGcv9CCfLaphZMbWW0hr-99" target="qGcv9CCfLaphZMbWW0hr-105" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-115" value="模拟光照，实际光照&lt;br&gt;Simulated illumination&lt;br&gt;vs. Actual illumination" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="946" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qGcv9CCfLaphZMbWW0hr-105" target="qGcv9CCfLaphZMbWW0hr-115" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qGcv9CCfLaphZMbWW0hr-103" target="qGcv9CCfLaphZMbWW0hr-118" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-130" value="植物&lt;br&gt;Plants" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1230" y="855" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qGcv9CCfLaphZMbWW0hr-133" target="qGcv9CCfLaphZMbWW0hr-115" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-133" value="光照度计，实际光照&lt;br&gt;Illuminance meter，&lt;br&gt;Actual illumination" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="855" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qGcv9CCfLaphZMbWW0hr-130" target="qGcv9CCfLaphZMbWW0hr-133" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-137" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="880" y="855" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-118" value="" style="whiteSpace=wrap;html=1;" parent="qGcv9CCfLaphZMbWW0hr-137" vertex="1">
+          <mxGeometry x="20" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-120" value="&lt;ul&gt;&lt;li&gt;获取 Aquirement&lt;/li&gt;&lt;li&gt;预处理 Preprocessing&lt;/li&gt;&lt;li&gt;重建 Reconstruction&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="qGcv9CCfLaphZMbWW0hr-137" vertex="1">
+          <mxGeometry width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qGcv9CCfLaphZMbWW0hr-120" target="qGcv9CCfLaphZMbWW0hr-105" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-140" value="分析&lt;br&gt;Analysis" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1230" y="946" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qGcv9CCfLaphZMbWW0hr-115" target="qGcv9CCfLaphZMbWW0hr-140" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-247" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="14" y="1052" width="1080" height="275" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-55" value="&lt;h1&gt;2018-2022&lt;/h1&gt;&lt;div&gt;博士 - Doctor&lt;/div&gt;&lt;div&gt;University&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;" parent="qGcv9CCfLaphZMbWW0hr-247" vertex="1">
+          <mxGeometry y="20" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-77" value="" style="group" parent="qGcv9CCfLaphZMbWW0hr-247" vertex="1" connectable="0">
+          <mxGeometry x="310" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-74" value="" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=none;gradientColor=none;spacing=5;spacingTop=-20;rounded=0;" parent="qGcv9CCfLaphZMbWW0hr-77" vertex="1">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-76" value="高等教育&lt;br&gt;Higher Education" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="qGcv9CCfLaphZMbWW0hr-77" vertex="1">
+          <mxGeometry x="2.5" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="qGcv9CCfLaphZMbWW0hr-247" source="qGcv9CCfLaphZMbWW0hr-55" target="qGcv9CCfLaphZMbWW0hr-74" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-97" value="计算机科学与技术&lt;br&gt;Computer Science" style="whiteSpace=wrap;html=1;strokeColor=default;" parent="qGcv9CCfLaphZMbWW0hr-247" vertex="1">
+          <mxGeometry x="493" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="qGcv9CCfLaphZMbWW0hr-247" source="qGcv9CCfLaphZMbWW0hr-76" target="qGcv9CCfLaphZMbWW0hr-97" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-101" value="计算机视觉&lt;br&gt;Computer Vision" style="whiteSpace=wrap;html=1;" parent="qGcv9CCfLaphZMbWW0hr-247" vertex="1">
+          <mxGeometry x="705" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="qGcv9CCfLaphZMbWW0hr-247" source="qGcv9CCfLaphZMbWW0hr-97" target="qGcv9CCfLaphZMbWW0hr-101" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-121" value="医学图像分析&lt;br&gt;Medical Image Analysis" style="whiteSpace=wrap;html=1;" parent="qGcv9CCfLaphZMbWW0hr-247" vertex="1">
+          <mxGeometry x="905" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="qGcv9CCfLaphZMbWW0hr-247" source="qGcv9CCfLaphZMbWW0hr-101" target="qGcv9CCfLaphZMbWW0hr-121" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-125" value="人工智能&lt;br&gt;Artificial Intelligence" style="whiteSpace=wrap;html=1;strokeColor=default;" parent="qGcv9CCfLaphZMbWW0hr-247" vertex="1">
+          <mxGeometry x="493" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="qGcv9CCfLaphZMbWW0hr-247" source="qGcv9CCfLaphZMbWW0hr-97" target="qGcv9CCfLaphZMbWW0hr-125" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-142" value="深度学习&lt;br&gt;Deep Learning" style="whiteSpace=wrap;html=1;strokeColor=default;" parent="qGcv9CCfLaphZMbWW0hr-247" vertex="1">
+          <mxGeometry x="705" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="qGcv9CCfLaphZMbWW0hr-247" source="qGcv9CCfLaphZMbWW0hr-125" target="qGcv9CCfLaphZMbWW0hr-142" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-342" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="qGcv9CCfLaphZMbWW0hr-247" source="qGcv9CCfLaphZMbWW0hr-289" target="qGcv9CCfLaphZMbWW0hr-142" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-289" value="医学图像&lt;br&gt;Medical Image&lt;br&gt;Biomarker Estimation&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="qGcv9CCfLaphZMbWW0hr-247" vertex="1">
+          <mxGeometry x="905" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-290" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="qGcv9CCfLaphZMbWW0hr-247" source="qGcv9CCfLaphZMbWW0hr-121" target="qGcv9CCfLaphZMbWW0hr-289" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-144" value="机器学习&lt;br&gt;Machine Learning" style="whiteSpace=wrap;html=1;strokeColor=default;" parent="qGcv9CCfLaphZMbWW0hr-247" vertex="1">
+          <mxGeometry x="493" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="qGcv9CCfLaphZMbWW0hr-247" source="qGcv9CCfLaphZMbWW0hr-125" target="qGcv9CCfLaphZMbWW0hr-144" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-323" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;树模型 Tree model&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;线性模型 Linear model&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;支持向量机 Supportive Vector Machine&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;贝叶斯分类器 Bayes classifier&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeColor=default;" parent="qGcv9CCfLaphZMbWW0hr-247" vertex="1">
+          <mxGeometry x="58" y="215" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-277" value="编程语言&lt;br&gt;Programming language" style="whiteSpace=wrap;html=1;strokeColor=default;" parent="qGcv9CCfLaphZMbWW0hr-247" vertex="1">
+          <mxGeometry x="938" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-278" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="qGcv9CCfLaphZMbWW0hr-247" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="765" y="175" as="sourcePoint" />
+            <mxPoint x="998" y="217" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="765" y="193" />
+              <mxPoint x="998" y="193" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-314" value="可解释人工智能&lt;br&gt;Explainable Artificial Intelligence" style="whiteSpace=wrap;html=1;strokeColor=default;" parent="qGcv9CCfLaphZMbWW0hr-247" vertex="1">
+          <mxGeometry x="308" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-315" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="qGcv9CCfLaphZMbWW0hr-247" source="qGcv9CCfLaphZMbWW0hr-125" target="qGcv9CCfLaphZMbWW0hr-314" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-302" value="多任务学习&lt;br&gt;Multi-task learning" style="whiteSpace=wrap;html=1;strokeColor=default;" parent="qGcv9CCfLaphZMbWW0hr-247" vertex="1">
+          <mxGeometry x="628" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-303" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="qGcv9CCfLaphZMbWW0hr-247" source="qGcv9CCfLaphZMbWW0hr-142" target="qGcv9CCfLaphZMbWW0hr-302" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-300" value="迁移学习&lt;br&gt;Transfer learning" style="whiteSpace=wrap;html=1;strokeColor=default;" parent="qGcv9CCfLaphZMbWW0hr-247" vertex="1">
+          <mxGeometry x="785" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-335" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;" parent="qGcv9CCfLaphZMbWW0hr-247" source="qGcv9CCfLaphZMbWW0hr-142" target="qGcv9CCfLaphZMbWW0hr-300" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qmrTpTHnCcI6w7EaYWka-3" value="Saliency maps" style="whiteSpace=wrap;html=1;strokeColor=default;" parent="qGcv9CCfLaphZMbWW0hr-247" vertex="1">
+          <mxGeometry x="148" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qmrTpTHnCcI6w7EaYWka-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#00FF00;" parent="qGcv9CCfLaphZMbWW0hr-247" source="qGcv9CCfLaphZMbWW0hr-314" target="qmrTpTHnCcI6w7EaYWka-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-249" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="320" y="946" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-71" value="" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=none;gradientColor=none;spacing=5;spacingTop=-20;rounded=0;" parent="qGcv9CCfLaphZMbWW0hr-249" vertex="1">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-73" value="高等教育&lt;br&gt;Higher Education" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="qGcv9CCfLaphZMbWW0hr-249" vertex="1">
+          <mxGeometry x="3" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qGcv9CCfLaphZMbWW0hr-49" target="qGcv9CCfLaphZMbWW0hr-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-263" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="319" y="641" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-68" value="" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=none;gradientColor=none;spacing=5;spacingTop=-20;rounded=0;" parent="qGcv9CCfLaphZMbWW0hr-263" vertex="1">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-70" value="高等教育&lt;br&gt;Higher Education" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="qGcv9CCfLaphZMbWW0hr-263" vertex="1">
+          <mxGeometry x="2.5" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-256" value="&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in ; line-height: 100% ; background: transparent&quot;&gt;&lt;/p&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;text-align: justify ; font-size: 11px ; background-color: transparent&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;体育&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;text-align: justify ; font-size: 11px ; background-color: transparent&quot;&gt;Sports&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 11px ; background-color: transparent ; text-align: justify&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;太极拳&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 11px ; background-color: transparent ; text-align: justify&quot;&gt;Tai Chi Chuan&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent ; text-align: justify&quot;&gt;健身气功八段锦&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent ; text-align: justify ; font-size: 11px&quot;&gt;Qigong Eight Duan Jin&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent ; text-align: justify&quot;&gt;马克思主义基本原理&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent ; text-align: justify ; font-size: 11px&quot;&gt;Basic Principles of Marxism&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent ; text-align: justify&quot;&gt;思想道德修养与法律基础&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent ; text-align: justify ; font-size: 11px&quot;&gt;Fundamentals of Thought, Moral Cultivation and Law&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent ; text-align: justify&quot;&gt;中国近现代史纲要&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent ; text-align: justify ; font-size: 11px&quot;&gt;Outline of Modern Chinese History&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent ; text-align: justify&quot;&gt;毛泽东思想和中国特色社会主义理论体系概论&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;text-align: justify ; font-size: 11px ; background-color: transparent&quot;&gt;Introduction &lt;/span&gt;&lt;span style=&quot;text-align: justify ; font-size: 11px ; background-color: transparent&quot;&gt;to Mao Zedong Thought and Socialist Theory System with Chinese Characteristics&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent ; text-align: justify&quot;&gt;当代中国社会问题透视&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent ; text-align: justify ; font-size: 11px&quot;&gt;Perspectives on Contemporary Chinese Social Issues&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 11px ; background-color: transparent ; text-align: justify&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;形势与政策&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 11px ; background-color: transparent ; text-align: justify&quot;&gt;Situation and Policy&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;text-align: justify ; background-color: transparent&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;中西文化比较&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;text-align: justify ; background-color: transparent&quot;&gt;Comparison&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent ; text-align: justify ; font-size: 11px&quot;&gt;of Chinese and Western Culture&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent ; text-align: justify&quot;&gt;大学生心理健康与发展&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent ; text-align: justify ; font-size: 11px&quot;&gt;College Student Mental Health and Development&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 11px ; background-color: transparent ; text-align: justify&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;军训&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 11px ; background-color: transparent ; text-align: justify&quot;&gt;MilitaryTraining&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in ; line-height: 100% ; background: transparent ; font-size: 11px&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in ; line-height: 100% ; background: transparent ; font-size: 11px&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in ; line-height: 100% ; background: transparent ; font-size: 11px&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in ; line-height: 100% ; background: transparent ; font-size: 11px&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in ; line-height: 100% ; background: transparent ; font-size: 11px&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in ; line-height: 100% ; background: transparent ; font-size: 11px&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in ; line-height: 100% ; background: transparent ; font-size: 11px&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in ; line-height: 100% ; background: transparent ; font-size: 11px&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in ; line-height: 100% ; background: transparent ; font-size: 11px&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in ; line-height: 100% ; background: transparent ; font-size: 11px&quot;&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeColor=default;verticalAlign=bottom;align=left;" parent="1" vertex="1">
+          <mxGeometry x="1014.67" y="444" width="173.17" height="395" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-257" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;background-color: transparent ; font-family: , &amp;#34;simsun&amp;#34; ; font-size: 11px&quot;&gt;信息系统分析与设计&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent ; font-size: 11px&quot;&gt;Information System Analysis and Design&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent ; font-family: , &amp;#34;simsun&amp;#34; ; font-size: 11px&quot;&gt;信息分析与决策支持&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent ; font-size: 11px&quot;&gt;Information&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-size: 11px&quot;&gt;Analysis and Decision Support&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;IT&lt;/font&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;项目管理&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;IT project management&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;ERP&lt;/font&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;管理与应用&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;ERP&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;Management and Applications&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;电子商务概论&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;Introduction&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;to E-Commerce&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;系统工程&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;Systems&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;Engineering&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent ; font-family: , &amp;#34;simsun&amp;#34;&quot;&gt;微观经济学&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;Microeconomics&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent ; font-family: , &amp;#34;simsun&amp;#34;&quot;&gt;管理学原理&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;Principles&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;of Management&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;会计学原理&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Principles o&lt;span style=&quot;background-color: transparent&quot;&gt;f Accounting&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;p&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeColor=default;align=left;" parent="1" vertex="1">
+          <mxGeometry x="1187.83" y="524" width="173.17" height="315" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-252" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;C&lt;/font&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;语言程序设计&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;C&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;programming language&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;面向对象程序设计&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;Object Oriented Programming&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;Java&lt;/font&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;语言程序设计&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;Java Language Programming&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;J2EE&lt;/font&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;技术&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;J2EE technology&lt;/font&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;Web&lt;/font&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;技术及应用&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;WebTechnologies and Applications&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;font style=&quot;background-color: transparent ; font-family: , &amp;#34;simsun&amp;#34;&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;数据结构&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;Data Structure&lt;/font&gt;&lt;/div&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;计算机组成与系统结构&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;Computer Composition and System Architecture&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;数据库原理与应用&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;Database Principles and Applications&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;font style=&quot;background-color: transparent ; font-family: , &amp;#34;simsun&amp;#34;&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;计算机网络&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;Computer Networks&lt;/font&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;background-color: transparent ; font-family: , &amp;#34;simsun&amp;#34;&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;操作系统&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;Operating Systems&lt;/font&gt;&lt;/div&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;Linux&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;font style=&quot;background-color: transparent ; font-family: , &amp;#34;simsun&amp;#34;&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;数字逻辑与数字系统&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;Digital&lt;br&gt;Logic and Digital Systems&lt;/font&gt;&lt;/div&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;嵌入式系统及应用&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;Embedded Systems and Applications&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;多媒体技术与应用&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;Multimedia&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;technology and application&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent ; font-family: , &amp;#34;simsun&amp;#34;&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;信息安全技术&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;Information&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;Security Technology&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;人工智能与专家系统&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;Artificial&lt;/font&gt;&lt;/div&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;Intelligence and Expert Systems&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;p class=&quot;western&quot; style=&quot;text-align: left ; margin-bottom: 0in ; line-height: 100% ; background: transparent&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="814" y="414" width="200.67" height="425" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-268" value="Programming &amp;amp;&lt;br&gt;Computer Science" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="839.67" y="378" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-269" value="Information System &amp;amp;&lt;br&gt;Management" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1189.4099999999999" y="488" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-271" value="MISC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1014" y="421" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-274" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;计算机技能训练&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;Computer Skills Training&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;数据结构与&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;C&lt;/font&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;语言综合训练&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Comprehensive training in data structures and C language&lt;br&gt;&lt;span style=&quot;font-family: , &amp;#34;simsun&amp;#34; ; background-color: transparent&quot;&gt;电子工艺实习&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;Hands-on Electronics Process&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;数据库设计&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;Database Design&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-family: , &amp;#34;simsun&amp;#34; ; background-color: transparent&quot;&gt;面向对象编程实践&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;Object-oriented programming practice&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;院企联合实习&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;Joint internship between faculty and enterprises&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;社会实践活动&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;background-color: transparent ; font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Social Practice Activities&lt;br&gt;&lt;font style=&quot;background-color: transparent ; font-size: 11px ; text-align: justify&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;工程训练&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;background-color: transparent ; font-size: 11px ; text-align: justify&quot;&gt;EngineeringTraining&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;p&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeColor=default;align=left;" parent="1" vertex="1">
+          <mxGeometry x="1361" y="564" width="173.17" height="275" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-275" value="Hands-on and practice" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1361" y="536" width="183" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-329" value="Python in remote server&amp;nbsp;&lt;br&gt;Slurm" style="whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1317" y="1267" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-279" value="Python in Pycharm&lt;br&gt;Tensorflow Keras" style="whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1116" y="1267" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-330" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="qGcv9CCfLaphZMbWW0hr-279" target="qGcv9CCfLaphZMbWW0hr-329" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-280" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=12;" parent="1" source="qGcv9CCfLaphZMbWW0hr-277" target="qGcv9CCfLaphZMbWW0hr-279" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-41" value="&lt;h1&gt;1992-05-08&lt;/h1&gt;&lt;div&gt;出生&lt;/div&gt;&lt;div&gt;Born&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="14" y="16" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-45" value="&lt;h1&gt;1997-2005&lt;/h1&gt;&lt;div&gt;幼儿园，学前班，小学&lt;/div&gt;&lt;div&gt;Kindergarten, preschool, elementary school&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="14" y="136" width="190" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qGcv9CCfLaphZMbWW0hr-41" target="qGcv9CCfLaphZMbWW0hr-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-47" value="&lt;h1&gt;2005-2008&lt;/h1&gt;&lt;div&gt;初中&lt;/div&gt;&lt;div&gt;Junior High School&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="14" y="282" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qGcv9CCfLaphZMbWW0hr-45" target="qGcv9CCfLaphZMbWW0hr-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-261" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qGcv9CCfLaphZMbWW0hr-49" target="qGcv9CCfLaphZMbWW0hr-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-49" value="&lt;h1&gt;2008-2011&lt;/h1&gt;&lt;div&gt;高中&lt;/div&gt;&lt;div&gt;High School&lt;br&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="14" y="423" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qGcv9CCfLaphZMbWW0hr-47" target="qGcv9CCfLaphZMbWW0hr-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-59" value="" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=none;gradientColor=none;spacing=5;spacingTop=-20;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="319" y="152" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qGcv9CCfLaphZMbWW0hr-45" target="qGcv9CCfLaphZMbWW0hr-59" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-61" value="学前教育，初等教育&lt;br&gt;Pre-school education, primary education" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="322" y="152" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-62" value="" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=none;gradientColor=none;spacing=5;spacingTop=-20;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="319" y="292" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qGcv9CCfLaphZMbWW0hr-47" target="qGcv9CCfLaphZMbWW0hr-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-64" value="初级中等教育&lt;br&gt;Primary Secondary Education" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="322" y="292" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-82" value="" style="whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="514.5" y="292" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qGcv9CCfLaphZMbWW0hr-64" target="qGcv9CCfLaphZMbWW0hr-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-152" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;语文 Chinese&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;数学 Math&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;英语 English&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="499" y="292" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qGcv9CCfLaphZMbWW0hr-61" target="qGcv9CCfLaphZMbWW0hr-152" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="644" y="566.5" as="sourcePoint" />
+            <mxPoint x="644" y="566.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-161" value="人文科学 Humanities&lt;br&gt;历史 History" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;" parent="1" vertex="1">
+          <mxGeometry x="634.5" y="252" width="149.5" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-162" value="社会科学 Social Sciences&lt;br&gt;政治 Politics &lt;br&gt;地理 Geography" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#d6b656;fillColor=#FFFF66;align=left;" parent="1" vertex="1">
+          <mxGeometry x="634.5" y="288" width="149.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-163" value="自然科学 Natural Sciences&lt;br&gt;物理 Physics &lt;br&gt;化学 Chemistry &lt;br&gt;生物 Biology &lt;br&gt;计算机 Computer Science" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;align=left;" parent="1" vertex="1">
+          <mxGeometry x="634.5" y="349" width="149.5" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-244" value="杂项 Misc&lt;br&gt;音乐 Music&lt;br&gt;美术 Arts&lt;br&gt;体育 Sports" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;align=left;" parent="1" vertex="1">
+          <mxGeometry x="634.5" y="191" width="149.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="qGcv9CCfLaphZMbWW0hr-67" target="qGcv9CCfLaphZMbWW0hr-152" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-260" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="319" y="434" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-65" value="" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=none;gradientColor=none;spacing=5;spacingTop=-20;rounded=0;" parent="qGcv9CCfLaphZMbWW0hr-260" vertex="1">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-67" value="高级中等教育&lt;br&gt;Higher Secondary Education" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="qGcv9CCfLaphZMbWW0hr-260" vertex="1">
+          <mxGeometry x="3" y="-1" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-255" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent ; font-size: 11px&quot;&gt;学科导论&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent ; font-size: 11px&quot;&gt;Introduction to Academic Subjects&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;生命科学导论&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent ; font-size: 11px&quot;&gt;Introduction to Life Science&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;div&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;高等数学&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;Advanced Mathematics&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;数学建模&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;Mathematical Modeling&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;计算方法&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;Computing Methods&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;概率论与数理统计&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;Probability Theory and Mathematical Statistics&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;div&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;线性代数&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;Linear Algebra&lt;/font&gt;&lt;/div&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;div&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;统计学原理&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;Principles of statistics&lt;/font&gt;&lt;/div&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;大学物理&lt;/span&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;Physics&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;&lt;div&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;&lt;span lang=&quot;zh-CN&quot;&gt;大学英语&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;background-color: transparent&quot;&gt;English&lt;/font&gt;&lt;/div&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;英文科技论文写作&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;English Science and Technology Paper Writing&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;p class=&quot;western&quot; style=&quot;margin-bottom: 0in ; line-height: 100% ; background: transparent&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;strokeColor=default;align=left;" parent="1" vertex="1">
+          <mxGeometry x="664" y="504" width="150" height="335" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcv9CCfLaphZMbWW0hr-267" value="Prerequisites" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="664" y="478" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qmrTpTHnCcI6w7EaYWka-1" value="LaTeX" style="whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="504" y="855" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
