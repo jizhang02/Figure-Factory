@@ -1,11 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T09:53:09.049Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42" etag="ciDjPwO8c-Fsauz8Oetd" version="20.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-12-12T09:57:54.415Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42" etag="fJ2RCJ6_sd-fDuPCJk5Y" version="20.5.3" type="github" pages="3">
   <diagram id="G1EAkqDxt5bERj7nrOD2" name="install singularity">
     <mxGraphModel dx="1065" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6LpnOTjiqvIQhpEYVGR6-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jDuNHK5ISurw_LcVm1E_-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6LpnOTjiqvIQhpEYVGR6-1" target="jDuNHK5ISurw_LcVm1E_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6LpnOTjiqvIQhpEYVGR6-1" value="install Singularity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jDuNHK5ISurw_LcVm1E_-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jDuNHK5ISurw_LcVm1E_-1" target="jDuNHK5ISurw_LcVm1E_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jDuNHK5ISurw_LcVm1E_-1" value="pull a container&lt;br&gt;(Anaconda3)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jDuNHK5ISurw_LcVm1E_-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jDuNHK5ISurw_LcVm1E_-3" target="jDuNHK5ISurw_LcVm1E_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jDuNHK5ISurw_LcVm1E_-3" value="run (writable)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jDuNHK5ISurw_LcVm1E_-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jDuNHK5ISurw_LcVm1E_-5" target="jDuNHK5ISurw_LcVm1E_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jDuNHK5ISurw_LcVm1E_-5" value="install libraries&lt;br&gt;(e.g. vim, opengate)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jDuNHK5ISurw_LcVm1E_-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jDuNHK5ISurw_LcVm1E_-7" target="jDuNHK5ISurw_LcVm1E_-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jDuNHK5ISurw_LcVm1E_-7" value="install missing libraries" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jDuNHK5ISurw_LcVm1E_-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jDuNHK5ISurw_LcVm1E_-9" target="jDuNHK5ISurw_LcVm1E_-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jDuNHK5ISurw_LcVm1E_-9" value="Test&lt;br&gt;python&lt;br&gt;&amp;gt;&amp;gt; import library" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jDuNHK5ISurw_LcVm1E_-11" value="Done" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jDuNHK5ISurw_LcVm1E_-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jDuNHK5ISurw_LcVm1E_-13" target="6LpnOTjiqvIQhpEYVGR6-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jDuNHK5ISurw_LcVm1E_-13" value="Start" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
