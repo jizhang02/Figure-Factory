@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-16T14:16:09.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="-GjhZEnJxeWe53VeVK0s" version="20.7.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-16T14:17:47.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="xgzAkQlm0V3CSwCqMRGC" version="20.7.3" type="github" pages="4">
   <diagram id="G1EAkqDxt5bERj7nrOD2" name="install singularity">
     <mxGraphModel dx="1077" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -568,7 +568,7 @@
         <mxCell id="qIhWpin9lnNmrJBL30dG-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qIhWpin9lnNmrJBL30dG-1" target="qIhWpin9lnNmrJBL30dG-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qIhWpin9lnNmrJBL30dG-1" value="vscode" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qIhWpin9lnNmrJBL30dG-1" value="vscode" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="360" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qIhWpin9lnNmrJBL30dG-2" value="side by side editing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
