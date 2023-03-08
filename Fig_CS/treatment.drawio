@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T14:56:58.398Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.0.0" etag="EMZfKdAZJu_BZGYEMvXx" version="20.8.23" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-08T15:51:04.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.0.0" etag="Wc3Ezz4IgUA-ZvQBiriF" version="20.8.23" type="github" pages="3">
   <diagram id="8cfLSDVFYSSkYeuZr6Ks" name="3dunet">
     <mxGraphModel dx="1265" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -397,10 +397,96 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pWRrMmH8Kc9Br_7ytorP" name="treatment">
-    <mxGraphModel dx="1581" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1265" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Q5hZqgmtlkCl-fDr3Nay-30" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="393" width="140" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5hZqgmtlkCl-fDr3Nay-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="380" width="770" height="163" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5hZqgmtlkCl-fDr3Nay-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="393" width="440" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5hZqgmtlkCl-fDr3Nay-27" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="491" y="393" width="140" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5hZqgmtlkCl-fDr3Nay-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="680" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5hZqgmtlkCl-fDr3Nay-3" value="Imaging" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="453" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5hZqgmtlkCl-fDr3Nay-5" value="Diagnose" style="whiteSpace=wrap;html=1;rounded=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="453" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5hZqgmtlkCl-fDr3Nay-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q5hZqgmtlkCl-fDr3Nay-3" target="Q5hZqgmtlkCl-fDr3Nay-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5hZqgmtlkCl-fDr3Nay-7" value="Therapy plan" style="whiteSpace=wrap;html=1;rounded=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="453" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5hZqgmtlkCl-fDr3Nay-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q5hZqgmtlkCl-fDr3Nay-5" target="Q5hZqgmtlkCl-fDr3Nay-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5hZqgmtlkCl-fDr3Nay-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q5hZqgmtlkCl-fDr3Nay-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="492" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="390" y="510" />
+              <mxPoint x="290" y="510" />
+              <mxPoint x="290" y="492" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q5hZqgmtlkCl-fDr3Nay-9" value="Clinical validation" style="whiteSpace=wrap;html=1;rounded=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="453" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5hZqgmtlkCl-fDr3Nay-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q5hZqgmtlkCl-fDr3Nay-7" target="Q5hZqgmtlkCl-fDr3Nay-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5hZqgmtlkCl-fDr3Nay-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q5hZqgmtlkCl-fDr3Nay-11" target="Q5hZqgmtlkCl-fDr3Nay-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5hZqgmtlkCl-fDr3Nay-11" value="Radiation therapy" style="whiteSpace=wrap;html=1;rounded=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="453" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5hZqgmtlkCl-fDr3Nay-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q5hZqgmtlkCl-fDr3Nay-9" target="Q5hZqgmtlkCl-fDr3Nay-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5hZqgmtlkCl-fDr3Nay-14" value="&lt;ul&gt;&lt;li&gt;Simulation therapy&lt;/li&gt;&lt;li&gt;Dosimetry&lt;/li&gt;&lt;li&gt;Safety assessment&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="320" y="393" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5hZqgmtlkCl-fDr3Nay-16" value="Optimization" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="487" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5hZqgmtlkCl-fDr3Nay-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q5hZqgmtlkCl-fDr3Nay-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="495" as="targetPoint" />
+            <mxPoint x="720" y="490" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="720" y="515" />
+              <mxPoint x="280" y="515" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q5hZqgmtlkCl-fDr3Nay-22" value="Evaluation" style="whiteSpace=wrap;html=1;rounded=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="453" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5hZqgmtlkCl-fDr3Nay-25" value="Pre-therapy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5hZqgmtlkCl-fDr3Nay-28" value="Therapy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="480" y="400" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5hZqgmtlkCl-fDr3Nay-31" value="Post-therapy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="655" y="400" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q5hZqgmtlkCl-fDr3Nay-33" value="Reference" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="655" y="493" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
