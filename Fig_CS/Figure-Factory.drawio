@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T20:11:18.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="Nuwgse9luPXs8uEiiOZT" version="21.0.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-03-14T12:34:37.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.0.0" etag="RKFm7SCSQ7sIrOXeFI63" version="21.0.4" type="github" pages="8">
   <diagram id="G1EAkqDxt5bERj7nrOD2" name="install singularity">
-    <mxGraphModel dx="974" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1265" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1313,6 +1313,95 @@
         </mxCell>
         <mxCell id="UPY7fHwO0GwYCJHNfawm-8" value="科学的尽头是哲学，哲学的尽头是什么？" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="440" width="520" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PS1mqXviffIfBXn_b39c" name="画像-张旭彤">
+    <mxGraphModel dx="1687" dy="1001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="u0y-YBwfnYlXiZcnyPXw-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u0y-YBwfnYlXiZcnyPXw-1" target="u0y-YBwfnYlXiZcnyPXw-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u0y-YBwfnYlXiZcnyPXw-1" value="张旭彤&lt;br&gt;2010" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="58" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="u0y-YBwfnYlXiZcnyPXw-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u0y-YBwfnYlXiZcnyPXw-2" target="u0y-YBwfnYlXiZcnyPXw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u0y-YBwfnYlXiZcnyPXw-2" value="初一班委&lt;br&gt;2022.11" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u0y-YBwfnYlXiZcnyPXw-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u0y-YBwfnYlXiZcnyPXw-4" target="u0y-YBwfnYlXiZcnyPXw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u0y-YBwfnYlXiZcnyPXw-4" value="鸡血&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2022.11" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u0y-YBwfnYlXiZcnyPXw-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u0y-YBwfnYlXiZcnyPXw-6" target="u0y-YBwfnYlXiZcnyPXw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u0y-YBwfnYlXiZcnyPXw-6" value="小说&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2022.12" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u0y-YBwfnYlXiZcnyPXw-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u0y-YBwfnYlXiZcnyPXw-8" target="u0y-YBwfnYlXiZcnyPXw-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u0y-YBwfnYlXiZcnyPXw-8" value="广播站&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2023.02" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u0y-YBwfnYlXiZcnyPXw-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u0y-YBwfnYlXiZcnyPXw-15" target="u0y-YBwfnYlXiZcnyPXw-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u0y-YBwfnYlXiZcnyPXw-15" value="搬家&lt;br&gt;2019" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="78" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u0y-YBwfnYlXiZcnyPXw-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u0y-YBwfnYlXiZcnyPXw-16" target="u0y-YBwfnYlXiZcnyPXw-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u0y-YBwfnYlXiZcnyPXw-16" value="四年级&lt;br&gt;2020" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="78" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u0y-YBwfnYlXiZcnyPXw-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u0y-YBwfnYlXiZcnyPXw-19" target="u0y-YBwfnYlXiZcnyPXw-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u0y-YBwfnYlXiZcnyPXw-19" value="五年级&lt;br&gt;2021" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="78" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u0y-YBwfnYlXiZcnyPXw-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u0y-YBwfnYlXiZcnyPXw-20" target="u0y-YBwfnYlXiZcnyPXw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u0y-YBwfnYlXiZcnyPXw-20" value="六年级&lt;br&gt;2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="78" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u0y-YBwfnYlXiZcnyPXw-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u0y-YBwfnYlXiZcnyPXw-21" target="u0y-YBwfnYlXiZcnyPXw-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u0y-YBwfnYlXiZcnyPXw-21" value="牙套&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2023.03" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u0y-YBwfnYlXiZcnyPXw-27" value="厌学&lt;br&gt;2023.03" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u0y-YBwfnYlXiZcnyPXw-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u0y-YBwfnYlXiZcnyPXw-29" target="u0y-YBwfnYlXiZcnyPXw-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u0y-YBwfnYlXiZcnyPXw-29" value="口才&lt;br&gt;2016-2021" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="78" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u0y-YBwfnYlXiZcnyPXw-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u0y-YBwfnYlXiZcnyPXw-31" target="u0y-YBwfnYlXiZcnyPXw-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u0y-YBwfnYlXiZcnyPXw-31" value="小学&lt;br&gt;2016" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="78" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u0y-YBwfnYlXiZcnyPXw-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u0y-YBwfnYlXiZcnyPXw-33" target="u0y-YBwfnYlXiZcnyPXw-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u0y-YBwfnYlXiZcnyPXw-33" value="幼儿园&lt;br&gt;2014" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="78" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
