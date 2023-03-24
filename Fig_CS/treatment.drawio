@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T14:06:15.222Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.51" etag="HHSTd2iIZteF4ADzeL4K" version="20.8.20" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-03-24T15:09:10.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.51" etag="NNldyAMStX9CB7WygjsA" version="20.8.20" type="github" pages="6">
   <diagram id="8cfLSDVFYSSkYeuZr6Ks" name="3dunet">
     <mxGraphModel dx="1055" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1092,6 +1092,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yMwQ5JhxhFzIRhveyuoo-105" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;dashed=1;dashPattern=8 8;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="40" y="720" width="640" height="240" as="geometry" />
+        </mxCell>
         <mxCell id="yMwQ5JhxhFzIRhveyuoo-79" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;dashed=1;dashPattern=8 8;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="41" y="439" width="640" height="220" as="geometry" />
         </mxCell>
@@ -1184,8 +1187,8 @@
         <mxCell id="yMwQ5JhxhFzIRhveyuoo-28" value="Validate the model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="59" y="321" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yMwQ5JhxhFzIRhveyuoo-34" value="Model establishment process" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="59" y="39" width="181" height="30" as="geometry" />
+        <mxCell id="yMwQ5JhxhFzIRhveyuoo-34" value="PBPK model establishment process" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="59" y="39" width="211" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yMwQ5JhxhFzIRhveyuoo-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yMwQ5JhxhFzIRhveyuoo-44" target="yMwQ5JhxhFzIRhveyuoo-46">
           <mxGeometry relative="1" as="geometry" />
@@ -1246,6 +1249,69 @@
         </mxCell>
         <mxCell id="yMwQ5JhxhFzIRhveyuoo-78" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="192" y="575" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yMwQ5JhxhFzIRhveyuoo-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yMwQ5JhxhFzIRhveyuoo-80" target="yMwQ5JhxhFzIRhveyuoo-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yMwQ5JhxhFzIRhveyuoo-80" value="Data collection&lt;br&gt;[Train; Test]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="773" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMwQ5JhxhFzIRhveyuoo-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yMwQ5JhxhFzIRhveyuoo-84" target="yMwQ5JhxhFzIRhveyuoo-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yMwQ5JhxhFzIRhveyuoo-84" value="Feature extraction&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="773" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMwQ5JhxhFzIRhveyuoo-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yMwQ5JhxhFzIRhveyuoo-85" target="yMwQ5JhxhFzIRhveyuoo-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yMwQ5JhxhFzIRhveyuoo-85" value="Model establishment&lt;br&gt;ML(PBPK)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="773" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMwQ5JhxhFzIRhveyuoo-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yMwQ5JhxhFzIRhveyuoo-86" target="yMwQ5JhxhFzIRhveyuoo-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yMwQ5JhxhFzIRhveyuoo-86" value="Model evaluation&lt;br&gt;[Test]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="853" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMwQ5JhxhFzIRhveyuoo-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yMwQ5JhxhFzIRhveyuoo-87" target="yMwQ5JhxhFzIRhveyuoo-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yMwQ5JhxhFzIRhveyuoo-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yMwQ5JhxhFzIRhveyuoo-87" target="yMwQ5JhxhFzIRhveyuoo-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yMwQ5JhxhFzIRhveyuoo-87" value="Model optimization&lt;br&gt;ML" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="853" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMwQ5JhxhFzIRhveyuoo-88" value="Model application" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="853" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMwQ5JhxhFzIRhveyuoo-95" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="283" y="820" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yMwQ5JhxhFzIRhveyuoo-96" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="193" y="867" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yMwQ5JhxhFzIRhveyuoo-97" value="&lt;ul&gt;&lt;li&gt;Linear regression&lt;/li&gt;&lt;li&gt;SVR&lt;/li&gt;&lt;li&gt;Decision tree&lt;/li&gt;&lt;li&gt;Random forest&lt;/li&gt;&lt;li&gt;Neural networks&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="507" y="753" width="142" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yMwQ5JhxhFzIRhveyuoo-98" value="&lt;ul&gt;&lt;li&gt;Genetic algorithms&lt;/li&gt;&lt;li&gt;particle swarm optimization&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;perimeterSpacing=0;spacingLeft=-19;" vertex="1" parent="1">
+          <mxGeometry x="220" y="903" width="130" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="yMwQ5JhxhFzIRhveyuoo-100" value="&lt;ul&gt;&lt;li&gt;RMSE&lt;/li&gt;&lt;li&gt;MAE&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=-10;" vertex="1" parent="1">
+          <mxGeometry x="380" y="903" width="100" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="yMwQ5JhxhFzIRhveyuoo-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yMwQ5JhxhFzIRhveyuoo-101" target="yMwQ5JhxhFzIRhveyuoo-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yMwQ5JhxhFzIRhveyuoo-101" value="Model training&lt;br&gt;[Train]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="529" y="853" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMwQ5JhxhFzIRhveyuoo-104" value="&lt;ul&gt;&lt;li&gt;Loss functions&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=-17;" vertex="1" parent="1">
+          <mxGeometry x="529" y="903" width="111.5" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="yMwQ5JhxhFzIRhveyuoo-106" value="Machine learning based PBPK Model" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="59" y="723" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
