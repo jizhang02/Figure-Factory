@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T12:54:20.138Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="1Igr18utP7MtQMzGdRJR" version="21.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-03-28T12:57:13.291Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="t4qKhYjsVmsED3LX5y9C" version="21.1.1" type="github" pages="7">
   <diagram id="8cfLSDVFYSSkYeuZr6Ks" name="3dunet">
     <mxGraphModel dx="1055" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -397,7 +397,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pWRrMmH8Kc9Br_7ytorP" name="treatment">
-    <mxGraphModel dx="966" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1055" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -499,7 +499,7 @@
         <mxCell id="Q5hZqgmtlkCl-fDr3Nay-60" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;dashed=1;dashPattern=1 2;strokeColor=#6c8ebf;" parent="Q5hZqgmtlkCl-fDr3Nay-64" vertex="1">
           <mxGeometry x="10" y="10" width="310" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Q5hZqgmtlkCl-fDr3Nay-51" value="Imaging data&lt;br&gt;&lt;sup&gt;68&lt;/sup&gt;Ga" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="Q5hZqgmtlkCl-fDr3Nay-64" vertex="1">
+        <mxCell id="Q5hZqgmtlkCl-fDr3Nay-51" value="Imaging data&lt;br&gt;&lt;sup&gt;18&lt;/sup&gt;F" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="Q5hZqgmtlkCl-fDr3Nay-64" vertex="1">
           <mxGeometry x="21" y="38" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q5hZqgmtlkCl-fDr3Nay-52" value="MC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="Q5hZqgmtlkCl-fDr3Nay-64" vertex="1">
