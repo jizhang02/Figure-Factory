@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T07:57:12.435Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="zG9UrTjJtIZDtbhRFnXb" version="21.1.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-04-06T07:59:00.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="eTRiCN1uLKGYpmrSe62h" version="21.1.4" type="github" pages="8">
   <diagram id="G1EAkqDxt5bERj7nrOD2" name="install singularity">
     <mxGraphModel dx="1055" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1364,7 +1364,7 @@
         <mxCell id="u0y-YBwfnYlXiZcnyPXw-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="u0y-YBwfnYlXiZcnyPXw-6" target="u0y-YBwfnYlXiZcnyPXw-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u0y-YBwfnYlXiZcnyPXw-6" value="小说&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2022.12" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="u0y-YBwfnYlXiZcnyPXw-6" value="构思小说&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2022.12" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u0y-YBwfnYlXiZcnyPXw-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="u0y-YBwfnYlXiZcnyPXw-8" target="u0y-YBwfnYlXiZcnyPXw-21" edge="1">
