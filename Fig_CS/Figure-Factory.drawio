@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T09:04:47.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="6HBkJCSSy_xI-coM-UPG" version="21.1.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-04-11T14:41:27.350Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="li8orWQQ4oRK59wlYz1w" version="21.1.4" type="github" pages="8">
   <diagram id="G1EAkqDxt5bERj7nrOD2" name="install singularity">
-    <mxGraphModel dx="1055" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="889" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -954,7 +954,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="trLWeR_rUQvLxlYw2wOp" name="Career routine">
-    <mxGraphModel dx="1270" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1000,10 +1000,8 @@
         <mxCell id="Pi8hEcT-UzPFTWQV0Fow-18" value="Multi-modal" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="940" y="409" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3YwcnpwROPatrGz4Mxaa-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Pi8hEcT-UzPFTWQV0Fow-19" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="421" y="451" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="cOXOFWujEfpBhuLw7qSK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pi8hEcT-UzPFTWQV0Fow-19" target="3YwcnpwROPatrGz4Mxaa-58">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pi8hEcT-UzPFTWQV0Fow-19" value="Graph" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="471" width="120" height="40" as="geometry" />
@@ -1239,6 +1237,17 @@
         <mxCell id="3YwcnpwROPatrGz4Mxaa-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3YwcnpwROPatrGz4Mxaa-91" target="Pi8hEcT-UzPFTWQV0Fow-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cOXOFWujEfpBhuLw7qSK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="163" y="491" as="sourcePoint" />
+            <mxPoint x="192" y="549" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="173" y="491" />
+              <mxPoint x="173" y="531" />
+              <mxPoint x="172" y="549" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3YwcnpwROPatrGz4Mxaa-91" value="Data" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="471" width="120" height="40" as="geometry" />
         </mxCell>
@@ -1281,6 +1290,14 @@
         </mxCell>
         <mxCell id="3YwcnpwROPatrGz4Mxaa-47" value="Knowledge Graph" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="940" y="471" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cOXOFWujEfpBhuLw7qSK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cOXOFWujEfpBhuLw7qSK-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cOXOFWujEfpBhuLw7qSK-1" value="Synthetic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="189" y="529" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
