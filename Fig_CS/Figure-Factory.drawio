@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T14:41:27.350Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="li8orWQQ4oRK59wlYz1w" version="21.1.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-04-11T14:44:24.128Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.34" etag="JXgg2sRqolLXp4nMfzj-" version="21.1.4" type="github" pages="8">
   <diagram id="G1EAkqDxt5bERj7nrOD2" name="install singularity">
     <mxGraphModel dx="889" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -954,7 +954,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="trLWeR_rUQvLxlYw2wOp" name="Career routine">
-    <mxGraphModel dx="1185" dy="959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="593" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1237,14 +1237,13 @@
         <mxCell id="3YwcnpwROPatrGz4Mxaa-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3YwcnpwROPatrGz4Mxaa-91" target="Pi8hEcT-UzPFTWQV0Fow-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cOXOFWujEfpBhuLw7qSK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="cOXOFWujEfpBhuLw7qSK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="cOXOFWujEfpBhuLw7qSK-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="163" y="491" as="sourcePoint" />
-            <mxPoint x="192" y="549" as="targetPoint" />
+            <mxPoint x="164" y="491" as="sourcePoint" />
+            <mxPoint x="193" y="549" as="targetPoint" />
             <Array as="points">
               <mxPoint x="173" y="491" />
-              <mxPoint x="173" y="531" />
-              <mxPoint x="172" y="549" />
+              <mxPoint x="173" y="549" />
             </Array>
           </mxGeometry>
         </mxCell>
