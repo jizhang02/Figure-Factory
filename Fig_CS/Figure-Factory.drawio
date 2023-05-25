@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T09:00:43.348Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="0CQv8iH24k8T7P4j3hqS" version="21.3.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-05-25T09:06:19.947Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="-iFQWxBwjyUljcHaCW3G" version="21.3.2" type="github" pages="8">
   <diagram id="G1EAkqDxt5bERj7nrOD2" name="install singularity">
     <mxGraphModel dx="1056" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -53,7 +53,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CMXXvhL34HXlCQiug_aX" name="slurm_workflow">
-    <mxGraphModel dx="1270" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1056" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,7 +97,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X7mbDVuBYECetjDnQ9tq" name="vscode">
-    <mxGraphModel dx="1270" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1056" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -177,7 +177,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3S6QeXYECyK9SX3h8xR4" name="study routine">
-    <mxGraphModel dx="1270" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1056" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -635,7 +635,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uBDh1kwjuBQNyPHsrPj3" name="work routine">
-    <mxGraphModel dx="1270" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1056" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1367,6 +1367,9 @@
         <mxCell id="56hUY3rq-z1i1fkAoYBw-2" value="人类" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="120" y="690" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XQaIlPIqCHsjYck2UsgX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="56hUY3rq-z1i1fkAoYBw-3" target="56hUY3rq-z1i1fkAoYBw-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="56hUY3rq-z1i1fkAoYBw-3" value="繁殖" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="520" y="690" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1391,13 +1394,13 @@
         <mxCell id="56hUY3rq-z1i1fkAoYBw-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="56hUY3rq-z1i1fkAoYBw-16" target="56hUY3rq-z1i1fkAoYBw-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="56hUY3rq-z1i1fkAoYBw-16" value="优秀" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="56hUY3rq-z1i1fkAoYBw-16" value="优化" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="340" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="56hUY3rq-z1i1fkAoYBw-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="56hUY3rq-z1i1fkAoYBw-17" target="56hUY3rq-z1i1fkAoYBw-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="56hUY3rq-z1i1fkAoYBw-17" value="贡献" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="56hUY3rq-z1i1fkAoYBw-17" value="输出" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="460" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="56hUY3rq-z1i1fkAoYBw-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="56hUY3rq-z1i1fkAoYBw-20" target="56hUY3rq-z1i1fkAoYBw-18" edge="1">
