@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T09:06:19.947Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="-iFQWxBwjyUljcHaCW3G" version="21.3.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-05-25T11:34:18.149Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="hAJDORRzxc0_5VphsY0K" version="21.3.2" type="github" pages="8">
   <diagram id="G1EAkqDxt5bERj7nrOD2" name="install singularity">
     <mxGraphModel dx="1056" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -954,7 +954,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="trLWeR_rUQvLxlYw2wOp" name="Career routine">
-    <mxGraphModel dx="1056" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1408" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1297,6 +1297,100 @@
         </mxCell>
         <mxCell id="cOXOFWujEfpBhuLw7qSK-1" value="Synthetic" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="189" y="529" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lw3kkG5exDQ4XbV0W9wH-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="20" y="879" width="1060" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="lw3kkG5exDQ4XbV0W9wH-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Treatment&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="36.5" y="889" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lw3kkG5exDQ4XbV0W9wH-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.084;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lw3kkG5exDQ4XbV0W9wH-19" target="lw3kkG5exDQ4XbV0W9wH-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="1009" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lw3kkG5exDQ4XbV0W9wH-19" value="surgery" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="929" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lw3kkG5exDQ4XbV0W9wH-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lw3kkG5exDQ4XbV0W9wH-20" target="lw3kkG5exDQ4XbV0W9wH-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="1009" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lw3kkG5exDQ4XbV0W9wH-20" value="radiotherapy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="929" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lw3kkG5exDQ4XbV0W9wH-21" value="chemotherapy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="484" y="929" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lw3kkG5exDQ4XbV0W9wH-22" value="immunotherapy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="929" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lw3kkG5exDQ4XbV0W9wH-23" value="hormone therapy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="929" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lw3kkG5exDQ4XbV0W9wH-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lw3kkG5exDQ4XbV0W9wH-24" target="lw3kkG5exDQ4XbV0W9wH-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="349" y="1009" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lw3kkG5exDQ4XbV0W9wH-24" value="medicine treatment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="929" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lw3kkG5exDQ4XbV0W9wH-26" value="physical, psychological therapy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="929" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lw3kkG5exDQ4XbV0W9wH-27" value="Image-guided interventions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="989" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lw3kkG5exDQ4XbV0W9wH-29" value="Robotic surgery" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="69" y="1039" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lw3kkG5exDQ4XbV0W9wH-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.091;exitY=1.04;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="49.91999999999996" y="970.5999999999999" as="sourcePoint" />
+            <mxPoint x="70" y="1059" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="1059" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lw3kkG5exDQ4XbV0W9wH-31" value="External beam radiotherapy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="989" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lw3kkG5exDQ4XbV0W9wH-33" value="Radionuclide therapy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1039" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lw3kkG5exDQ4XbV0W9wH-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.168;exitY=1.027;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200.15999999999997" y="970.0799999999999" as="sourcePoint" />
+            <mxPoint x="220" y="1059" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="1059" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lw3kkG5exDQ4XbV0W9wH-35" value="Drug discovery" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="369" y="989" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lw3kkG5exDQ4XbV0W9wH-38" value="Drup development" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="369" y="1039" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lw3kkG5exDQ4XbV0W9wH-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="lw3kkG5exDQ4XbV0W9wH-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="349" y="970" as="sourcePoint" />
+            <mxPoint x="379" y="1019" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="349" y="970" />
+              <mxPoint x="349" y="1059" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
