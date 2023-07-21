@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T08:24:15.362Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="MUNaeMgmWqAEnhlGomdO" version="21.5.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-07-21T12:14:05.088Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="X6zQAHrn5ltkZPlWnxdx" version="21.6.1" type="github" pages="8">
   <diagram id="8cfLSDVFYSSkYeuZr6Ks" name="3dunet">
     <mxGraphModel dx="1056" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -669,8 +669,8 @@
         <mxCell id="Q5hZqgmtlkCl-fDr3Nay-87" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="60" y="540" width="631" height="259" as="geometry" />
         </mxCell>
-        <mxCell id="Q5hZqgmtlkCl-fDr3Nay-97" value="Pre-therapy: prostate localization （20*20*32）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="85" y="542" width="288" height="30" as="geometry" />
+        <mxCell id="Q5hZqgmtlkCl-fDr3Nay-97" value="Prostate localization （20*20*32）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="93.5" y="542" width="288" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q5hZqgmtlkCl-fDr3Nay-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Q5hZqgmtlkCl-fDr3Nay-265" target="Q5hZqgmtlkCl-fDr3Nay-266" edge="1">
           <mxGeometry relative="1" as="geometry" />
