@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-08T13:50:57.619Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="NxJWpe9xkd2b8q6UTaNR" version="21.7.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-09-08T13:51:30.326Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="reR_3ShTYEuDRKBldmgT" version="21.7.2" type="github" pages="9">
   <diagram id="8cfLSDVFYSSkYeuZr6Ks" name="3dunet">
     <mxGraphModel dx="1063" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2538,10 +2538,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="a5XEbzCoVGhOEumGdnhe-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;shadow=0;glass=0;" vertex="1" parent="a5XEbzCoVGhOEumGdnhe-16">
-          <mxGeometry x="320" y="-17.50229299363059" width="73" height="180" as="geometry" />
+          <mxGeometry x="320" y="-17.5" width="60" height="180" as="geometry" />
         </mxCell>
         <mxCell id="a5XEbzCoVGhOEumGdnhe-8" value="predicted Dose &lt;br&gt;value" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="a5XEbzCoVGhOEumGdnhe-16">
-          <mxGeometry x="322" y="59.857707006369424" width="71" height="30" as="geometry" />
+          <mxGeometry x="315" y="59.857707006369424" width="71" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a5XEbzCoVGhOEumGdnhe-31" value="SSL architecture" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="a5XEbzCoVGhOEumGdnhe-17">
           <mxGeometry x="107" width="120" height="30" as="geometry" />
