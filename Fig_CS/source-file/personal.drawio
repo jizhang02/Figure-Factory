@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T14:25:00.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="G7aNsSjBo7LGY_gZN-kg" version="21.7.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-09-12T14:31:17.461Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="8ul-HLVQF06NEch0iGEb" version="21.7.4" type="github" pages="7">
   <diagram id="3S6QeXYECyK9SX3h8xR4" name="study routine">
     <mxGraphModel dx="1063" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -1614,6 +1614,44 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9fB8Nf-4Ucei9gPXUen_" name="Math-ML">
+    <mxGraphModel dx="1063" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pZ-Y6fwxMVKAhLvrS-m9-1" value="y = ax + b" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pZ-Y6fwxMVKAhLvrS-m9-2" value="y = a1x1 + a2x2 + a3x3 + b" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pZ-Y6fwxMVKAhLvrS-m9-3" value="(y_true - y_pred)&lt;sup&gt;2&lt;/sup&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pZ-Y6fwxMVKAhLvrS-m9-4" value="y&#39; = y / x" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="220" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pZ-Y6fwxMVKAhLvrS-m9-5" value="sensitive analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pZ-Y6fwxMVKAhLvrS-m9-6" value="boundary condition" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="340" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pZ-Y6fwxMVKAhLvrS-m9-7" value="partial weifen equation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pZ-Y6fwxMVKAhLvrS-m9-8" value="Math" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZ-Y6fwxMVKAhLvrS-m9-9" value="Machine learning" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="10" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pZ-Y6fwxMVKAhLvrS-m9-10" value="y = ax + b" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="40" width="200" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
