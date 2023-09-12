@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T14:20:30.210Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="NqiKQzfO-ryi1nnw6G7C" version="21.7.4" type="github">
-  <diagram name="Page-1" id="1FAmxgKUk1cxIiEI7bFX">
+<mxfile host="app.diagrams.net" modified="2023-09-12T14:21:31.588Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="bu06Rag3uuMdvJ1EIEXP" version="21.7.4" type="github" pages="2">
+  <diagram name="install singularity" id="1FAmxgKUk1cxIiEI7bFX">
     <mxGraphModel dx="1063" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -48,6 +48,50 @@
         </mxCell>
         <mxCell id="6Gcq8CyH0MXsr1B9tsZY-15" value="1. Start" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YgcC4kNWY3SSNZuQARnh" name="slurm_workflow">
+    <mxGraphModel dx="1063" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ROjjqOFC4GEpd0jCT0kN-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ROjjqOFC4GEpd0jCT0kN-2" target="ROjjqOFC4GEpd0jCT0kN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROjjqOFC4GEpd0jCT0kN-2" value="Declare environment&lt;br&gt;#sbatch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ROjjqOFC4GEpd0jCT0kN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ROjjqOFC4GEpd0jCT0kN-4" target="ROjjqOFC4GEpd0jCT0kN-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROjjqOFC4GEpd0jCT0kN-4" value="specify path&lt;br&gt;.sh; .sif; .py" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ROjjqOFC4GEpd0jCT0kN-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ROjjqOFC4GEpd0jCT0kN-6" target="ROjjqOFC4GEpd0jCT0kN-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROjjqOFC4GEpd0jCT0kN-6" value="use Singularity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ROjjqOFC4GEpd0jCT0kN-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ROjjqOFC4GEpd0jCT0kN-8" target="ROjjqOFC4GEpd0jCT0kN-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROjjqOFC4GEpd0jCT0kN-8" value="specify environment&lt;br&gt;libs, python interpreter" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ROjjqOFC4GEpd0jCT0kN-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ROjjqOFC4GEpd0jCT0kN-10" target="ROjjqOFC4GEpd0jCT0kN-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROjjqOFC4GEpd0jCT0kN-10" value="run python code" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ROjjqOFC4GEpd0jCT0kN-11" value="exit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ROjjqOFC4GEpd0jCT0kN-12" value="Not required&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="190" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
