@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T15:42:34.728Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31" etag="ElRJyKmn8_IQqHHzXTYH" version="21.7.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-09-20T16:13:47.933Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.31" etag="OvQFWM8YVbf2XaZB-NLL" version="21.7.5" type="github" pages="4">
   <diagram name="treatment" id="NdFavh7FCCwfa64Ih8NV">
     <mxGraphModel dx="1063" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1179,6 +1179,12 @@
         </mxCell>
         <mxCell id="411G1eXaEkNdCB3wk9hq-55" value="Automatic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="556" y="230" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="411G1eXaEkNdCB3wk9hq-57" value="External beam radiotherapy (EBRT)​" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="411G1eXaEkNdCB3wk9hq-59" value="Stereotactic Body radiation therapy (SBRT)​" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
