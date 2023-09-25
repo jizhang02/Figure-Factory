@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T15:57:06.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="gsHNtbFgSBnjiMmtz_H5" version="21.8.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-09-25T16:03:32.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="m5Zbhp_oPRIlrDv29QOH" version="21.8.0" type="github" pages="5">
   <diagram name="treatment" id="NdFavh7FCCwfa64Ih8NV">
     <mxGraphModel dx="1063" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1288,13 +1288,13 @@
         <mxCell id="xjIwsxsQoA8YSMqWl_m8-11" value="Diagnose" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="56" y="281" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xjIwsxsQoA8YSMqWl_m8-12" value="Treatment plan" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#C9D6E8;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="xjIwsxsQoA8YSMqWl_m8-12" value="Treatment plan" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#9ec0f0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="56" y="346" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xjIwsxsQoA8YSMqWl_m8-13" value="Medical records" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8F2FF;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="187" y="222" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xjIwsxsQoA8YSMqWl_m8-14" value="Dosimetry" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#c9d6e8;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="xjIwsxsQoA8YSMqWl_m8-14" value="Dosimetry" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#9ec0f0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="187" y="346" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xjIwsxsQoA8YSMqWl_m8-15" value="Expert consults" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8F2FF;strokeColor=#6c8ebf;" vertex="1" parent="1">
