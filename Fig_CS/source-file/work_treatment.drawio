@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-02T08:50:52.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="AyKchnZqomlt_GMGdoTu" version="21.8.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-02T08:57:15.146Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="ONQesLoJxNQJ72WAGf2n" version="21.8.2" type="github" pages="5">
   <diagram name="treatment" id="NdFavh7FCCwfa64Ih8NV">
     <mxGraphModel dx="1063" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1071,7 +1071,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="00mqESQQ13G66L3s_xFZ" name="radiation therapy">
-    <mxGraphModel dx="1063" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1417" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1318,19 +1318,19 @@
         <mxCell id="xjIwsxsQoA8YSMqWl_m8-21" value="Hybrid" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6E8DBF;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="316" y="499" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xjIwsxsQoA8YSMqWl_m8-23" value="Evaluation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#99CCFF;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="xjIwsxsQoA8YSMqWl_m8-23" value="Validation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#99CCFF;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="316" y="552" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xjIwsxsQoA8YSMqWl_m8-24" value="PTV" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D1D4FC;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="xjIwsxsQoA8YSMqWl_m8-24" value="ROI, VOI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D1D4FC;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="432" y="544" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xjIwsxsQoA8YSMqWl_m8-25" value="OARs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D1D4FC;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="xjIwsxsQoA8YSMqWl_m8-25" value="PTV, OARs" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D1D4FC;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="432" y="574" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xjIwsxsQoA8YSMqWl_m8-26" value="DVH" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BDD8FC;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="xjIwsxsQoA8YSMqWl_m8-26" value="MAE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BDD8FC;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="529" y="544" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xjIwsxsQoA8YSMqWl_m8-27" value="TAC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BDD8FC;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="xjIwsxsQoA8YSMqWl_m8-27" value="DVH, TAC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BDD8FC;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="529" y="574" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xjIwsxsQoA8YSMqWl_m8-28" value="Historical patients" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#91bafd;strokeColor=#6c8ebf;" parent="1" vertex="1">
