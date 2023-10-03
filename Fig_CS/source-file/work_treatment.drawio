@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-03T10:08:51.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="isdm2yUA8YxALydbA37_" version="22.0.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-03T10:09:18.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.41" etag="4Uu_4Lfka2Gzlp-DHza1" version="22.0.0" type="github" pages="5">
   <diagram name="treatment" id="NdFavh7FCCwfa64Ih8NV">
     <mxGraphModel dx="1063" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1499,7 +1499,7 @@
           <mxGeometry x="32" y="95" width="79" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G2ng_2MdKc67Vdp8MFJT-25" value="&lt;font color=&quot;#00cc00&quot;&gt;Lu177 CT SPECT&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="641" y="95" width="120" height="30" as="geometry" />
+          <mxGeometry x="655" y="95" width="101" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G2ng_2MdKc67Vdp8MFJT-26" value="&lt;ul&gt;&lt;li&gt;Dosimetry&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
           <mxGeometry x="211" y="89" width="100" height="40" as="geometry" />
