@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-04T14:52:37.605Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="67vFcq8pSC14RhlyTq_S" version="22.0.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-06T13:44:10.180Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="dnP53mWqR3ANlKuDI_Sj" version="22.0.3" type="github" pages="5">
   <diagram name="treatment" id="NdFavh7FCCwfa64Ih8NV">
     <mxGraphModel dx="1063" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1075,6 +1075,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WnMMWHtpZfAbg0XYoyQ6-38" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="31" y="770" width="512" height="250" as="geometry" />
+        </mxCell>
         <mxCell id="xjIwsxsQoA8YSMqWl_m8-60" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;dashed=1;dashPattern=1 1;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="525.5" y="539" width="87" height="71" as="geometry" />
         </mxCell>
@@ -1400,6 +1403,48 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="WnMMWHtpZfAbg0XYoyQ6-1" value="18 DVK methods" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="42" y="863" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WnMMWHtpZfAbg0XYoyQ6-2" value="MC(5,6)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="119.5" y="860" width="80.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WnMMWHtpZfAbg0XYoyQ6-3" value="DPKs(2,2)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220.5" y="860" width="80.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WnMMWHtpZfAbg0XYoyQ6-4" value="Analytical methods(2,1)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="321.5" y="860" width="80.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WnMMWHtpZfAbg0XYoyQ6-11" value="Lu177,Y90&lt;br&gt;paitents" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="119.5" y="790" width="80.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WnMMWHtpZfAbg0XYoyQ6-13" value="Tumors&lt;br&gt;OARs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="219.5" y="790" width="80.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WnMMWHtpZfAbg0XYoyQ6-14" value="CoV, avg, max&amp;nbsp; difference" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420.38" y="918" width="80.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WnMMWHtpZfAbg0XYoyQ6-15" value="Mean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="119.5" y="918" width="89.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WnMMWHtpZfAbg0XYoyQ6-16" value="D10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="221.88" y="918" width="80.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WnMMWHtpZfAbg0XYoyQ6-17" value="D90" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325.88" y="918" width="80.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WnMMWHtpZfAbg0XYoyQ6-18" value="&amp;nbsp;evaluation metrics" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="42" y="928" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WnMMWHtpZfAbg0XYoyQ6-37" value="Conclusion: Reduce variability, and make standarized." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="42" y="980" width="529" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WnMMWHtpZfAbg0XYoyQ6-39" value="patients" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="42" y="795" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WnMMWHtpZfAbg0XYoyQ6-40" value="Comparison of different DVKs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Tahoma;" vertex="1" parent="1">
+          <mxGeometry x="311" y="772" width="220" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -1694,22 +1739,22 @@
         <mxCell id="8wdaJKEDp8JUmGH3SMTp-163" value="Note" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="565" y="814.01" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YDSryOKqFaHdZ4KyI9ay-1" value="before therapy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontFamily=Comic Sans MS;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="YDSryOKqFaHdZ4KyI9ay-1" value="before therapy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontFamily=Comic Sans MS;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="100.63" y="449" width="94.37" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YDSryOKqFaHdZ4KyI9ay-2" value="after therapy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontFamily=Comic Sans MS;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="YDSryOKqFaHdZ4KyI9ay-2" value="after therapy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontFamily=Comic Sans MS;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="104.13" y="636" width="83" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YDSryOKqFaHdZ4KyI9ay-3" value="&lt;ul style=&quot;line-height: 120%;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Organ segmentation to count activity&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;OARs (mean, std) var. diff. patients&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;tumors: observe&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ul style=&quot;line-height: 120%;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Virtual patients: VCT - XCAT;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Dose map&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Reconstruction - RPET+VC&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;T-MC(Lu177)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;VCT - MC(Lu177)&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;arcSize=5;" vertex="1" parent="1">
+        <mxCell id="YDSryOKqFaHdZ4KyI9ay-3" value="&lt;ul style=&quot;line-height: 120%;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Organ segmentation to count activity&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;OARs (mean, std) var. diff. patients&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;tumors: observe&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ul style=&quot;line-height: 120%;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Virtual patients: VCT - XCAT;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Dose map&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Reconstruction - RPET+VC&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;T-MC(Lu177)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;VCT - MC(Lu177)&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;arcSize=5;" parent="1" vertex="1">
           <mxGeometry x="560" y="180" width="260" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="YDSryOKqFaHdZ4KyI9ay-4" value="Data synthesis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="YDSryOKqFaHdZ4KyI9ay-4" value="Data synthesis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="571" y="190" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YDSryOKqFaHdZ4KyI9ay-7" value="before therapy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontFamily=Comic Sans MS;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="YDSryOKqFaHdZ4KyI9ay-7" value="before therapy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontFamily=Comic Sans MS;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="100.63" y="885" width="94.37" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YDSryOKqFaHdZ4KyI9ay-8" value="after therapy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontFamily=Comic Sans MS;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="YDSryOKqFaHdZ4KyI9ay-8" value="after therapy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontFamily=Comic Sans MS;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="368.5" y="885" width="83" height="30" as="geometry" />
         </mxCell>
       </root>
