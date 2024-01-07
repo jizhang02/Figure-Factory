@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-07T20:29:46.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="UwC0bLKT1HG4D6agsaOC" version="22.1.17" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-01-07T20:38:42.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="mkg3mP3uilD_uwbc5FPZ" version="22.1.17" type="github" pages="9">
   <diagram id="3S6QeXYECyK9SX3h8xR4" name="study routine">
     <mxGraphModel dx="765" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -1651,7 +1651,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="G8BSR3UiuLuiR0L2doUB" name="vision">
-    <mxGraphModel dx="1063" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="765" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1713,7 +1713,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9fB8Nf-4Ucei9gPXUen_" name="Math-ML">
-    <mxGraphModel dx="1063" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="765" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1751,27 +1751,71 @@
     </mxGraphModel>
   </diagram>
   <diagram id="q58V1kydwdGWghs5HzcQ" name="cat-law">
-    <mxGraphModel dx="1417" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="765" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kmWRbr5FFgh-QFFcwmQb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="kmWRbr5FFgh-QFFcwmQb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="700" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="kmWRbr5FFgh-QFFcwmQb-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kmWRbr5FFgh-QFFcwmQb-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="90" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kmWRbr5FFgh-QFFcwmQb-4" value="有法律保障" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="kmWRbr5FFgh-QFFcwmQb-4" value="有法律保障" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="60" y="50" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kmWRbr5FFgh-QFFcwmQb-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="kmWRbr5FFgh-QFFcwmQb-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="40" y="519" width="700" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="kmWRbr5FFgh-QFFcwmQb-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kmWRbr5FFgh-QFFcwmQb-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="569" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kmWRbr5FFgh-QFFcwmQb-8" value="无法律保障" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="kmWRbr5FFgh-QFFcwmQb-8" value="无法律保障" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="60" y="529" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Zxnz0IbEwQqyzcw1GMYB" name="儒释道">
+    <mxGraphModel dx="765" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wNlE-yCXK2OfZYN6OgSY-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wNlE-yCXK2OfZYN6OgSY-1" target="wNlE-yCXK2OfZYN6OgSY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wNlE-yCXK2OfZYN6OgSY-1" value="低水平重复" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wNlE-yCXK2OfZYN6OgSY-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wNlE-yCXK2OfZYN6OgSY-2" target="wNlE-yCXK2OfZYN6OgSY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wNlE-yCXK2OfZYN6OgSY-2" value="自我觉察" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wNlE-yCXK2OfZYN6OgSY-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wNlE-yCXK2OfZYN6OgSY-4" target="wNlE-yCXK2OfZYN6OgSY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wNlE-yCXK2OfZYN6OgSY-4" value="自我和解" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wNlE-yCXK2OfZYN6OgSY-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wNlE-yCXK2OfZYN6OgSY-6" target="wNlE-yCXK2OfZYN6OgSY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wNlE-yCXK2OfZYN6OgSY-6" value="自我超越" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wNlE-yCXK2OfZYN6OgSY-8" value="无我无相" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wNlE-yCXK2OfZYN6OgSY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="wNlE-yCXK2OfZYN6OgSY-10" target="wNlE-yCXK2OfZYN6OgSY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wNlE-yCXK2OfZYN6OgSY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="wNlE-yCXK2OfZYN6OgSY-10" target="wNlE-yCXK2OfZYN6OgSY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wNlE-yCXK2OfZYN6OgSY-10" value="正念-禅修" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="120" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
