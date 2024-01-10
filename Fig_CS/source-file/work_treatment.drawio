@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T16:06:15.604Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="H3DJytWvombTicKKnbg_" version="22.1.18" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-10T16:07:43.892Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="hDQzTVB7uu5xAR6ld-_D" version="22.1.18" type="github" pages="6">
   <diagram name="treatment" id="NdFavh7FCCwfa64Ih8NV">
     <mxGraphModel dx="1063" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1953,19 +1953,19 @@
         <mxCell id="orxCGOlLdpNxQM2nTQ-u-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="orxCGOlLdpNxQM2nTQ-u-20" target="orxCGOlLdpNxQM2nTQ-u-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="orxCGOlLdpNxQM2nTQ-u-20" value="Dose map" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=14;" vertex="1" parent="1">
+        <mxCell id="orxCGOlLdpNxQM2nTQ-u-20" value="Dose maps" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=14;" vertex="1" parent="1">
           <mxGeometry x="40" y="899" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="orxCGOlLdpNxQM2nTQ-u-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="orxCGOlLdpNxQM2nTQ-u-21" target="orxCGOlLdpNxQM2nTQ-u-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="orxCGOlLdpNxQM2nTQ-u-21" value="Labeled phantom" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=14;" vertex="1" parent="1">
+        <mxCell id="orxCGOlLdpNxQM2nTQ-u-21" value="Labeled phantoms" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=14;" vertex="1" parent="1">
           <mxGeometry x="40" y="799" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="orxCGOlLdpNxQM2nTQ-u-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="orxCGOlLdpNxQM2nTQ-u-22" target="orxCGOlLdpNxQM2nTQ-u-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="orxCGOlLdpNxQM2nTQ-u-22" value="Simualated PET" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=14;" vertex="1" parent="1">
+        <mxCell id="orxCGOlLdpNxQM2nTQ-u-22" value="Simualated PETs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=14;" vertex="1" parent="1">
           <mxGeometry x="40" y="849" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="orxCGOlLdpNxQM2nTQ-u-23" value="Organ volume" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#f5f5f5;fontSize=9;" vertex="1" connectable="0" parent="1">
