@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T10:52:28.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="sbxd78MjPVuyeHgz5x_h" version="22.1.21" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-19T11:08:47.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="WNBcXEbr8tE_WCbYFbXG" version="22.1.21" type="github" pages="3">
   <diagram name="Page-1" id="0TPB68t9lcZoh8MEriOU">
     <mxGraphModel dx="1063" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -579,6 +579,76 @@
         </mxCell>
         <mxCell id="1cHm_g2njoVk8qvXfkr_-12" value="CT" style="rounded=1;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=3;shadow=0;html=1;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="19.356686152696113" y="349.3626920057771" width="102.10073990144461" height="32.08266522722138" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7aCxZSf5d_0RmDeVYSe4" name="Page-3">
+    <mxGraphModel dx="1063" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FWwthXCWpQtMuScOZSq0-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="60" width="680" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="FWwthXCWpQtMuScOZSq0-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;arcSize=5;" vertex="1" parent="FWwthXCWpQtMuScOZSq0-8">
+          <mxGeometry x="70" width="540" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="FWwthXCWpQtMuScOZSq0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="FWwthXCWpQtMuScOZSq0-8" source="FWwthXCWpQtMuScOZSq0-1" target="FWwthXCWpQtMuScOZSq0-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="166.5" />
+              <mxPoint x="340" y="166.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FWwthXCWpQtMuScOZSq0-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FWwthXCWpQtMuScOZSq0-8" source="FWwthXCWpQtMuScOZSq0-4" target="FWwthXCWpQtMuScOZSq0-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWwthXCWpQtMuScOZSq0-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FWwthXCWpQtMuScOZSq0-8" source="FWwthXCWpQtMuScOZSq0-6" target="FWwthXCWpQtMuScOZSq0-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWwthXCWpQtMuScOZSq0-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FWwthXCWpQtMuScOZSq0-8" source="FWwthXCWpQtMuScOZSq0-11" target="FWwthXCWpQtMuScOZSq0-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWwthXCWpQtMuScOZSq0-11" value="Target segmentation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="FWwthXCWpQtMuScOZSq0-8">
+          <mxGeometry x="380" y="157.25" width="200" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="FWwthXCWpQtMuScOZSq0-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FWwthXCWpQtMuScOZSq0-8" source="FWwthXCWpQtMuScOZSq0-12" target="FWwthXCWpQtMuScOZSq0-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWwthXCWpQtMuScOZSq0-12" value="Time Activity Curve" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="FWwthXCWpQtMuScOZSq0-8">
+          <mxGeometry x="380" y="231.25" width="200" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="FWwthXCWpQtMuScOZSq0-13" value="Dose calculation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="FWwthXCWpQtMuScOZSq0-8">
+          <mxGeometry x="380" y="305.25" width="200" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="FWwthXCWpQtMuScOZSq0-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FWwthXCWpQtMuScOZSq0-8" source="FWwthXCWpQtMuScOZSq0-14" target="FWwthXCWpQtMuScOZSq0-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWwthXCWpQtMuScOZSq0-14" value="Imaging scanning (CT/PET/SPECT)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="FWwthXCWpQtMuScOZSq0-8">
+          <mxGeometry x="380" y="83.25" width="200" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="FWwthXCWpQtMuScOZSq0-18" value="External beam radiotherapy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FWwthXCWpQtMuScOZSq0-8">
+          <mxGeometry x="100" y="27.75" width="200" height="27.75" as="geometry" />
+        </mxCell>
+        <mxCell id="FWwthXCWpQtMuScOZSq0-19" value="Radiopharmaceutical therapiy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FWwthXCWpQtMuScOZSq0-8">
+          <mxGeometry x="380" y="27.75" width="200" height="27.75" as="geometry" />
+        </mxCell>
+        <mxCell id="FWwthXCWpQtMuScOZSq0-4" value="Target segmentation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="FWwthXCWpQtMuScOZSq0-8">
+          <mxGeometry x="100" y="157.25" width="200" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="FWwthXCWpQtMuScOZSq0-6" value="Treatment Planning System" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="FWwthXCWpQtMuScOZSq0-8">
+          <mxGeometry x="100" y="231.25" width="200" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="FWwthXCWpQtMuScOZSq0-9" value="Dose calculation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="FWwthXCWpQtMuScOZSq0-8">
+          <mxGeometry x="100" y="305.25" width="200" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="FWwthXCWpQtMuScOZSq0-3" value="Imaging scanning(CT)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="FWwthXCWpQtMuScOZSq0-8">
+          <mxGeometry x="100" y="83.25" width="200" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="FWwthXCWpQtMuScOZSq0-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FWwthXCWpQtMuScOZSq0-8" source="FWwthXCWpQtMuScOZSq0-3" target="FWwthXCWpQtMuScOZSq0-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
