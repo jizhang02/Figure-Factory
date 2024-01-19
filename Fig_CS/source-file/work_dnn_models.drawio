@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T11:09:25.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="4RmXpHJaQxlfER4ykyM1" version="22.1.21" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-19T11:14:20.681Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="ezYyzSYDiUE08AQR0Prm" version="22.1.21" type="github" pages="3">
   <diagram name="Page-1" id="0TPB68t9lcZoh8MEriOU">
     <mxGraphModel dx="1063" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -626,10 +626,10 @@
         <mxCell id="FWwthXCWpQtMuScOZSq0-14" value="Imaging scanning (CT/PET/SPECT)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="388" y="123.25" width="200" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="FWwthXCWpQtMuScOZSq0-18" value="External beam radiotherapy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FWwthXCWpQtMuScOZSq0-18" value="External beam radiotherapy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="108" y="67.75" width="200" height="27.75" as="geometry" />
         </mxCell>
-        <mxCell id="FWwthXCWpQtMuScOZSq0-19" value="Radiopharmaceutical therapiy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FWwthXCWpQtMuScOZSq0-19" value="Radiopharmaceutical therapy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="388" y="67.75" width="200" height="27.75" as="geometry" />
         </mxCell>
         <mxCell id="FWwthXCWpQtMuScOZSq0-4" value="Target segmentation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
